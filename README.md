@@ -1,6 +1,6 @@
 # Dev Tradutor
 
-**Deploy online:** (https://dev-tradutor-five.vercel.app/)
+**Deploy online:** ([dev-tradutor](https://dev-tradutor-hazel.vercel.app/))
 
 É uma aplicação web que permite traduzir textos entre diferentes idiomas, oferecendo uma interface simples para seleção de idiomas e inserção de texto.
 
